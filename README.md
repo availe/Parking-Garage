@@ -3,7 +3,7 @@
  
  Commented out cout lines were used for debugging purposes
  
- Program reads txt files formatted likewise to "cars.txt"
+ Program reads txt files formatted likewise to "cars.txt" or "cars1.txt"
  ____
  
  What the program does:
